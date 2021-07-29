@@ -1,0 +1,61 @@
+/* main */
+main {
+    background-color: #E5E5E5;
+}
+
+/* banner container */
+.container-banner {
+    height: 698px;
+    width: 100%;
+    background-color: #264653;
+
+}
+
+.text-colours {
+    color: #FFFFFF;
+}
+
+.font-size {
+    width: 456px;
+    height: 66px;
+    font-family: Poppins;
+}
+
+.purchase {
+    background-color: #E76F51;
+}
+
+.best-bike-collection-text {
+    color: #E76F51;
+}
+
+.img {
+
+    filter: grayscale(100%);
+
+}
+
+.star-icon {
+    color: #E77C40;
+}
+
+
+.third-img {
+    border-radius: 100%;
+    height: 149px;
+    width: 149px;
+}
+
+/* service section */
+
+
+/* get in touch section */
+#submit-email {
+    width: 90%;
+    height: 200px;
+}
+
+.background-img {
+    background-image: url(images/Frame\ 57.jpg);
+
+}
